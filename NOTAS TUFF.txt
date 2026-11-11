@@ -6,7 +6,7 @@
 
 Ojetivo:
 
-Futebol é um desporto coletivo em que duas equipas ,cada uma com 11 jogadores, competem para ver quem marca mais golos durante um periodo de 90 minutos
+Futebol é um desporto coletivo em que duas equipas cada uma com 11 jogadores
 
 
 Regras Principais :
